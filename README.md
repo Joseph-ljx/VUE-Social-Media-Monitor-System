@@ -42,16 +42,15 @@ A more detailed and specific report could be find at [**here**](https://github.c
 A quick introduction and demo to my application's structure and effect. The scrapy and server is not running, pictures would be included.
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218207280-66824777-7497-4915-ba30-0fe4279bcbaa.png">
-
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/92981525/218205180-150d7f75-91ca-4ceb-aed4-3424aab500b3.png">
-<img width="490" alt="image" src="https://user-images.githubusercontent.com/92981525/218207299-a1abadef-1fb7-4dbb-8a7e-62cef6280927.png">
-<img width="460" alt="image" src="https://user-images.githubusercontent.com/92981525/218207309-34795ad7-fbbc-4c24-9869-89a7e4795615.png">
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/92981525/218208177-7d4c6e95-15de-4b8c-8a54-3a04e984db37.png">
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/92981525/218208227-b2948bf0-2f86-415d-b893-d961f7ac3107.png">
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/92981525/218208248-b390834e-32b1-4414-928d-9ca3ea4846e1.png">
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/92981525/218208286-3112edbf-0d3b-4c0d-9a58-e8de9b5118af.png">
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/92981525/218208746-a0fc663e-89cc-405d-a276-d4fe3eef4a4f.png">
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/92981525/218208761-9a361903-17c4-4e24-a74f-d47019f543f8.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218205180-150d7f75-91ca-4ceb-aed4-3424aab500b3.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218207299-a1abadef-1fb7-4dbb-8a7e-62cef6280927.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218207309-34795ad7-fbbc-4c24-9869-89a7e4795615.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218208177-7d4c6e95-15de-4b8c-8a54-3a04e984db37.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218208227-b2948bf0-2f86-415d-b893-d961f7ac3107.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218208248-b390834e-32b1-4414-928d-9ca3ea4846e1.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218208286-3112edbf-0d3b-4c0d-9a58-e8de9b5118af.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218208746-a0fc663e-89cc-405d-a276-d4fe3eef4a4f.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218208761-9a361903-17c4-4e24-a74f-d47019f543f8.png">
 
 ## 🕷 Spider Program
 

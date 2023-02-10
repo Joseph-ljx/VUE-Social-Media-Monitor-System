@@ -1,0 +1,70 @@
+
+###/changeLog/getList###mockServer
+POST http://49.232.229.126:80/mock-server/changeLog/getList
+Content-Type: application/x-www-form-urlencoded
+###
+mockServer
+###/colorfulIcon/list###
+POST http://49.232.229.126:80/mock-server/colorfulIcon/list
+Content-Type: application/x-www-form-urlencoded
+###mockServer
+
+###/menu/navigate###
+POST http://49.232.229.126:80/mock-server/menu/navigate
+Content-Type: application/x-www-form-urlenmockServer
+###
+
+###/icon/list###
+POST http://49.232.229.126:80/mock-server/icon/mockServer
+Content-Type: application/x-www-form-urlencoded
+###
+
+###/face/list###mockServer
+POST http://49.232.229.126:80/mock-server/face/list
+Content-Type: application/x-www-form-urlencoded
+###
+mockServer
+###/table/list###
+POST http://49.232.229.126:80/mock-server/table/list
+Content-Type: application/x-www-form-urlencoded
+###mockServer
+
+###/remixicon/getList###
+POST http://49.232.229.126:80/mock-server/remixicon/getList
+Content-Type: application/x-www-form-urlenmockServer
+###
+
+###/publicKey###
+POST http://49.232.229.126:80/mock-server/pumockServer
+Content-Type: application/x-www-form-urlencoded
+###
+
+###/tree/list###mockServer
+POST http://49.232.229.126:80/mock-server/tree/list
+Content-Type: application/x-www-form-urlencoded
+###
+mockServer
+###/upload###
+POST http://49.232.229.126:80/mock-server/upload
+Content-Type: application/x-www-form-urlencoded
+###mockServer
+
+###/login###
+POST http://49.232.229.126:80/mock-server/login
+Content-Type: application/x-www-form-urlenmockServer
+###
+
+###/waterfall/list###
+POST http://49.232.229.126:80/mock-server/waterfall/list
+Content-Type: application/x-www-form-urlencoded
+###
+
+###/logout###
+POST http://49.232.229.126:80/mock-server/logout
+Content-Type: application/x-www-form-urlencoded
+###
+
+###/userInfo###
+POST http://49.232.229.126:80/mock-server/userInfo
+Content-Type: application/x-www-form-urlencoded
+###

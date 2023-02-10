@@ -40,7 +40,9 @@ npm run serve
 A more detailed and specific report could be find at [**here**](https://github.com/Joseph-ljx/VUE-Social-Media-Monitor-System/blob/main/Project%20Report.pdf). A PPT introduction of logic and presentation could be found [**here**](https://github.com/Joseph-ljx/VUE-Social-Media-Monitor-System/blob/main/Intro.pdf)
 
 A quick introduction and demo to my application's structure and effect. The scrapy and server is not running, pictures would be included.
-<img width="510" alt="image" src="https://user-images.githubusercontent.com/92981525/218207280-66824777-7497-4915-ba30-0fe4279bcbaa.png">
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92981525/218207280-66824777-7497-4915-ba30-0fe4279bcbaa.png">
+
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/92981525/218205180-150d7f75-91ca-4ceb-aed4-3424aab500b3.png">
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/92981525/218207299-a1abadef-1fb7-4dbb-8a7e-62cef6280927.png">
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/92981525/218207309-34795ad7-fbbc-4c24-9869-89a7e4795615.png">
